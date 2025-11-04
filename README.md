@@ -61,8 +61,3 @@ It aims to empower HR professionals with **actionable insights** to identify pro
 - Gained in-depth experience in **Power BI visualization and DAX**  
 - Enhanced **data storytelling** and **HR analytics** understanding  
 - Learned to **transform raw workforce data** into actionable insights  
-
----
-
-
-
