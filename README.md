@@ -20,6 +20,12 @@ It aims to empower HR professionals with **actionable insights** to identify pro
 
 ---
 
+## 📸 Dashboard Preview
+
+![HR Analytics Dashboard](Dashboard.png)
+
+---
+
 ## 🎯 Objectives
 
 - Identify the **key factors** influencing employee attrition  
@@ -58,9 +64,5 @@ It aims to empower HR professionals with **actionable insights** to identify pro
 
 ---
 
-## 📸 Dashboard Preview
 
-![HR Analytics Dashboard](Dashboard.png)
-
----
 
