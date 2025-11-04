@@ -64,18 +64,3 @@ It aims to empower HR professionals with **actionable insights** to identify pro
 
 ---
 
-## 💡 Future Enhancements
-
-- Integrate **real-time HR data** via Power BI Service  
-- Add **predictive analytics** to forecast attrition trends  
-- Include **employee satisfaction and engagement metrics**
-
----
-
-## 🤝 Connect with Me
-
-**👤 Sujal Ghanti**  
-🎓 Artificial Intelligence & Data Science Engineer  
-📈 Aspiring Business & Data Analyst  
-🔗 [LinkedIn](https://www.linkedin.com/in/sujalghanti)  
-📧 sujalghanti@gmail.com
